@@ -2,19 +2,18 @@
 
 Open Command Prompt (CMD) and check:
 
-1. Check Python version
+Check Python version
 python --version
-2. Check Java version
-java -version
 
-If both commands work properly, proceed to installation.
+If it work properly, proceed to installation.
 
 ** Required Installations **
+
 2.1 Install Required Python Libraries
-pip install spacy
-pip install python-docx
+  pip install spacy
+  pip install python-docx
 2.2 Download NLP Model
-python -m spacy download en_core_web_sm
+  python -m spacy download en_core_web_sm
 ** Install Graphviz **
 
 Go to: https://graphviz.org/download/

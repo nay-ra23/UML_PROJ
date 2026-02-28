@@ -12,9 +12,9 @@ If it work properly, proceed to installation.
 
 2.1 Install Required Python Libraries
 
-  • pip install spacy
+  ◇ pip install spacy
   
-  • pip install python-docx
+  ◇ pip install python-docx
   
 2.2 Download NLP Model
 

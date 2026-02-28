@@ -3,7 +3,6 @@
 ## Pip and Version Check
 1. Go to CMD  
    - Check Python version: `python --version`  
-   - Check Java version: `java -version`
 
 2. If everything is okay, install required libraries  
    - Install spaCy: `pip install spacy`  

@@ -1,0 +1,19 @@
+@startuml
+
+class Payment
+class Customer
+class Entity
+class Product
+class System
+class Category
+class Admin
+class Order
+class Cart
+
+System --> Customer : consist
+Customer --> Product : purchase
+Admin --> Order : monitor
+Product --> Category : belong
+Order --> Product : contain
+
+@enduml

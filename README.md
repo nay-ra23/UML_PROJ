@@ -15,6 +15,7 @@ If it work properly, proceed to installation.
   ◇ pip install spacy
   
   ◇ pip install python-docx
+
   
 2.2 Download NLP Model
 
